@@ -18,9 +18,10 @@ Our itch.io website is the home for product information, release announcements, 
 
 ## Product status
 
-Time & Seasons is in release preparation. The broader RPG authoring kit is in development. Planned features are not promises of currently available functionality. Follow the [main website](https://fableweld-labs.itch.io/) for the actual released catalog and each product's supported versions, license and limitations.
+Time & Seasons Free Lite 1.3.3 is published under the MIT license: [itch.io download](https://fableweld-labs.itch.io/time-seasons-free-lite), [GitHub source and release](https://github.com/fableweldlabs/time-seasons-lite/releases/tag/v1.3.3). The Godot Asset Library submission is pending moderation. Paid Starter is still in release preparation. The broader RPG authoring kit is in development. Planned features are not promises of currently available functionality. Follow the [main website](https://fableweld-labs.itch.io/) for the actual released catalog and each product's supported versions, license and limitations.
 
-This repository is a documentation and support hub. It does not distribute the Paid product source, internal development builds or draft release archives. Executable examples will be identified by their product version when approved for public release; the examples currently here are written workflow recipes.
+This repository is a documentation and support hub. It does not distribute the Paid product source, internal development builds or draft release archives. The [Free Lite source repository](https://github.com/fableweldlabs/time-seasons-lite) includes its runnable signal example and version-specific documentation. This hub also provides written workflow recipes. Copyright (c) 2026 Gordon Hinchen; Fableweld Labs branding.
 
 Contact: [fableweldlabs@gmail.com](mailto:fableweldlabs@gmail.com).
+
 
