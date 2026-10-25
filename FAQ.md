@@ -8,11 +8,11 @@ https://fableweld-labs.itch.io/ is Fableweld Labs' main website and storefront. 
 
 ## Is the complete RPG authoring kit available?
 
-It is in development. Time & Seasons Free Lite 1.3.3 is published; Paid Starter remains in release preparation. Refer to the itch.io website for products actually released; a plan or development milestone is not a released download.
+It is in development. Time & Seasons Free Lite 1.4.0 is published; [Time & Seasons Starter](https://fableweld-labs.itch.io/time-seasons-starter) adds lighting, HUD, sleep, availability and clock saves; [documentation](STARTER.md). Refer to the itch.io website for products actually released; a plan or development milestone is not a released download.
 
 ## Where do I download a product?
 
-Download [Free Lite on itch.io](https://fableweld-labs.itch.io/time-seasons-free-lite) or from its [GitHub release](https://github.com/fableweldlabs/time-seasons-lite/releases/tag/v1.3.3). This documentation repository does not host internal builds or Paid source archives.
+Download [Free Lite on itch.io](https://fableweld-labs.itch.io/time-seasons-free-lite) or from its [GitHub release](https://github.com/fableweldlabs/time-seasons-lite/releases/tag/v1.4.0). This documentation repository does not host internal builds or Paid source archives.
 
 ## Is everything open source because this repository is public?
 
@@ -24,7 +24,7 @@ Support is stated per product and release. Check that release's documentation be
 
 ## Do you have executable examples?
 
-Free Lite 1.3.3 includes a runnable Godot signal example in its [source repository](https://github.com/fableweldlabs/time-seasons-lite). The current [examples page](EXAMPLES.md) contains written workflow recipes.
+Both Time & Seasons pages offer separate optional Lumen Vale downloads: an editable Godot project and a playable Windows demo. You can skip both when installing the addon. [Starter quick starts](STARTER.md) explain its clock save/restore example. The [examples page](EXAMPLES.md) also supplies written recipes.
 
 ## Where do I get help?
 

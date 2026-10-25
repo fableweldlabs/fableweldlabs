@@ -12,7 +12,7 @@
 
 ## Time & Seasons
 
-The first product is in release preparation. Version-specific installation instructions and executable examples will accompany an approved public release. This page does not provide an unreleased download or certify a development candidate.
+[Free Lite](https://fableweld-labs.itch.io/time-seasons-free-lite) supplies the MIT clock and seasons. [Starter](STARTER.md) adds lighting, HUD, sleep, availability rules and clock saves. Each product has a small required addon and separate optional Lumen Vale examples. Starter and Lite support English, Spanish, Brazilian Portuguese, Simplified Chinese, Japanese, French and German for their interfaces, quick starts and Lumen Vale dialogue/signs.
 
 For a practical introduction to the problems the tool is intended to solve, read the [workflow examples](EXAMPLES.md).
 
