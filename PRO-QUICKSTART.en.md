@@ -1,6 +1,6 @@
 # Open and use Calendar & Growth Pro
 
-This guide targets Calendar & Growth Pro review builds. Commercial license wording and the $29.99 price are approved for packaging. Publication remains separately authorized.
+This guide covers Calendar & Growth Pro 2.1.0. The product is available on itch.io for $19.99 USD or more. Read the packaged commercial license and component notices before use.
 
 ## Choose your download
 
