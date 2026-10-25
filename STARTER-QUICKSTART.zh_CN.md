@@ -10,3 +10,6 @@
 更新：将配置、自建场景和代码保存在 addons 外。备份、禁用插件，仅替换 addons/rpg_time 后重新启用。请转换 Lite 配置的副本并保留原件。保存失败后先检查 .writing 与 .previous 恢复文件，再重试。不要用示例的 project.godot 覆盖游戏项目设置。
 
 仅插件为必需下载；两个示例均可选。商业源码供私有使用，不得公开发布；MIT核心权利保持不变。参见 LICENSE 和 LICENSE-COMPONENTS.txt。不含天气、成长、自定义日历、NPC寻路、物品栏、任务或整个游戏的存档。支持：fableweldlabs@gmail.com。翻译由AI辅助，未经独立母语者审校。
+
+
+生成的场景包含带渐变质感的可复用时钟HUD、配套休息按钮和语言选择器。选择器翻译内置HUD、交互提示与生成的说明，不改变游戏的TranslationServer或自定义名称。自建HUD可设置language_code或调用set_language("zh_CN")。FWHUDStyle控制颜色、字体、边距、圆角和时钟字号；外观会缓存，不会在每次时钟更新时重建。自定义休息按钮文字保持不变。光明谷使用的正是这个可复用HUD。

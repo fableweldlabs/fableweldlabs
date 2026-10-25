@@ -10,3 +10,6 @@
 Updates: keep profiles, generated scenes and your code outside addons. Back up, disable the plugin, replace only addons/rpg_time, then re-enable. Convert a COPY of a Lite profile and preserve the original. Inspect .writing and .previous recovery files before retrying a failed save. Never overwrite your project's project.godot with the example's.
 
 Addon Only is required. Both example downloads are optional. Full commercial source is included for private use; do not publish paid source. MIT core rights are unchanged. See LICENSE and LICENSE-COMPONENTS.txt. No weather, growth, custom calendar, NPC pathfinding, inventory, quests or whole-game saves are included. Support: fableweldlabs@gmail.com. Translations are AI-assisted and have not received independent native-speaker review.
+
+
+The generated rig now includes a glossy reusable clock HUD, matching sleep control and a language selector. The selector translates built-in HUD text, interaction prompts and generated instructions without changing your game’s TranslationServer or custom names. For a custom HUD, use its language_code field or set_language("ja"). FWHUDStyle controls colors, font, padding, corners and clock size; the clock caches its appearance instead of rebuilding it on every tick. Existing custom sleep captions are preserved. Lumen Vale uses this actual reusable HUD, not a separate imitation.

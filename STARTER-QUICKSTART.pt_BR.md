@@ -10,3 +10,6 @@
 Atualizações: mantenha perfis, cenas geradas e código fora de addons. Faça backup, desative o plugin, substitua somente addons/rpg_time e reative. Converta uma CÓPIA do perfil Lite e preserve o original. Inspecione .writing e .previous antes de tentar novamente um salvamento com falha. Não substitua o project.godot do jogo pelo do exemplo.
 
 Somente o addon é necessário; os dois exemplos são opcionais. O código comercial é para uso privado, não para publicação. O núcleo mantém os direitos MIT. Leia LICENSE e LICENSE-COMPONENTS.txt. Não inclui clima, crescimento, calendário personalizado, navegação de NPCs, inventário, missões ou salvamento completo do jogo. Suporte: fableweldlabs@gmail.com. Tradução assistida por IA, sem revisão independente de falantes nativos.
+
+
+A cena gerada inclui HUD de relógio com acabamento suave, controle de descanso e seletor de idioma. O seletor traduz HUD, avisos e instruções integradas sem alterar TranslationServer ou seus nomes. Em um HUD próprio, use language_code ou set_language("pt_BR"). FWHUDStyle ajusta cores, fonte, espaçamento, cantos e tamanho. A aparência é reutilizada a cada avanço do relógio. Legendas personalizadas de descanso são preservadas. Vale da Luz usa esse mesmo HUD reutilizável.

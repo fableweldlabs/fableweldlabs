@@ -10,3 +10,6 @@
 Updates: Profile, erzeugte Szenen und eigenen Code außerhalb von addons ablegen. Sichern, Plugin deaktivieren, nur addons/rpg_time ersetzen und wieder aktivieren. Eine KOPIE des Lite-Profils konvertieren und das Original behalten. Nach fehlgeschlagenem Speichern zuerst .writing und .previous prüfen. Die project.godot des Spiels nicht durch die Beispieldatei ersetzen.
 
 Nur das Addon ist erforderlich; beide Beispiele sind optional. Kommerziellen Quelltext nur privat verwenden und nicht veröffentlichen. MIT-Rechte des Kerns bleiben erhalten. LICENSE und LICENSE-COMPONENTS.txt beachten. Kein Wetter, Wachstum, eigener Kalender, NPC-Pfadfindung, Inventar, Quests oder vollständiges Spielspeichern enthalten. Kontakt: fableweldlabs@gmail.com. KI-gestützte Übersetzung ohne unabhängige muttersprachliche Prüfung.
+
+
+Die erzeugte Szene enthält ein wiederverwendbares Uhr-HUD mit Farbverläufen, eine passende Schlaftaste und eine Sprachauswahl. Nur eingebaute HUD-Texte, Hinweise und Anleitungen werden übersetzt; TranslationServer und eigene Namen bleiben unverändert. Eigene HUDs nutzen language_code oder set_language("de"). FWHUDStyle steuert Farben, Schrift, Abstände, Ecken und Größe. Das Erscheinungsbild wird bei Uhr-Ticks wiederverwendet. Eigene Beschriftungen der Schlaftaste bleiben erhalten. Lichtertal verwendet genau dieses HUD.

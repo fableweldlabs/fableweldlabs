@@ -10,3 +10,6 @@
 Mises à jour : gardez profils, scènes générées et code hors d’addons. Sauvegardez, désactivez le plugin, remplacez uniquement addons/rpg_time puis réactivez-le. Convertissez une COPIE du profil Lite et conservez l’original. Inspectez .writing et .previous avant de retenter un enregistrement échoué. Ne remplacez pas le project.godot du jeu par celui de l’exemple.
 
 Seul l’addon est nécessaire ; les deux exemples sont facultatifs. Le code commercial est réservé à un usage privé et ne doit pas être publié. Les droits MIT du cœur restent inchangés. Consultez LICENSE et LICENSE-COMPONENTS.txt. Sans météo, croissance, calendrier personnalisé, navigation des PNJ, inventaire, quêtes ni sauvegarde complète du jeu. Assistance : fableweldlabs@gmail.com. Traduction assistée par IA, sans relecture indépendante par des locuteurs natifs.
+
+
+La scène générée comprend un HUD d’horloge réutilisable avec dégradés, un bouton de repos assorti et un sélecteur de langue. Celui-ci traduit les textes intégrés sans changer TranslationServer ni vos noms personnalisés. Pour votre HUD, utilisez language_code ou set_language("fr"). FWHUDStyle règle couleurs, police, marges, coins et taille. L’apparence est réutilisée à chaque avance de l’horloge. Les libellés de repos personnalisés sont conservés. Val de Lumière utilise ce même HUD.
