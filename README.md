@@ -18,7 +18,13 @@ Our itch.io website is the home for product information, release announcements, 
 
 ## Product status
 
-Time & Seasons Free Lite 1.4.0 is published under the MIT license: [itch.io download](https://fableweld-labs.itch.io/time-seasons-free-lite), [GitHub source and release](https://github.com/fableweldlabs/time-seasons-lite/releases/tag/v1.4.0). The Godot Asset Library submission is pending moderation. [Time & Seasons Starter](https://fableweld-labs.itch.io/time-seasons-starter) is available for $2.99 USD or more. See [Starter documentation and seven-language quick starts](STARTER.md). The broader RPG authoring kit is in development. Planned features are not promises of currently available functionality. Follow the [main website](https://fableweld-labs.itch.io/) for the actual released catalog and each product's supported versions, license and limitations.
+All three editions share release **2.1.0**:
+
+- [Time & Seasons Lite](https://fableweld-labs.itch.io/time-seasons-free-lite): free, MIT source.
+- [Time & Seasons Starter](https://fableweld-labs.itch.io/time-seasons-starter): $2.99 USD or more. [Documentation](STARTER.md).
+- [Calendar & Growth Pro](https://fableweld-labs.itch.io/calendar-growth-pro): $19.99 USD or more. [Documentation and seven-language quick starts](PRO.md).
+
+Download only the addon to use it in your own project. Editable examples and standalone Windows demos are separate optional downloads. Godot submissions are subject to moderation. See each listing for supported engine versions, license and limitations.
 
 This repository is a documentation and support hub. It does not distribute the Paid product source, internal development builds or draft release archives. The [Free Lite source repository](https://github.com/fableweldlabs/time-seasons-lite) includes its runnable signal example and version-specific documentation. This hub also provides written workflow recipes. Copyright (c) 2026 Gordon Hinchen; Fableweld Labs branding.
 
