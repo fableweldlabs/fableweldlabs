@@ -23,6 +23,16 @@ Our itch.io website is the home for product information, release announcements, 
 - [Contributing](https://github.com/fableweldlabs/fableweldlabs/blob/main/CONTRIBUTING.md): useful reports and documentation corrections.
 
 
+## New product launch offers
+
+Through **November 9, 2026**, three more products have 30% launch discounts:
+
+- [Time & Seasons Starter: $2.09](https://itch.io/s/210989/time-seasons-starter-launch-sale), regularly $2.99.
+- [Calendar & Growth Pro: $13.99](https://itch.io/s/210990/calendar-growth-pro-launch-sale), regularly $19.99.
+- [Inventory & Equipment: $3.49](https://itch.io/s/210992/inventory-equipment-launch-sale), regularly $4.99.
+
+Choose one clock edition per project; Pro customers do not need Starter too. Economy includes Inventory & Equipment. The regular prices below remain the base prices; see each checkout for active offers. Free Lite remains free under MIT. [Try the small free clock tutorial](LITE-CLOCK-TUTORIAL.md).
+
 ## Product status
 
 
