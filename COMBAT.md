@@ -30,7 +30,7 @@ Email fableweldlabs@gmail.com or open an issue with engine/product version, repr
 
 # Combat quick starts
 
-Development documentation. Exact customer packages and native acceptance remain pending. These guides describe the current source; independent native-speaker review has not been performed. See [installation and updates](INSTALLATION.md) and the [API reference](README.md).
+Quickstarts for RPG Combat 1.0.0. The required addon and optional editable and Windows examples are separate downloads. Independent native-speaker review has not been performed. See installation, updates and API reference included in the product download.
 
 ## Difficulty workflow / Flujo de dificultad / Fluxo de dificuldade / 难度流程 / 難易度の手順 / Réglage de difficulté / Schwierigkeitsablauf
 
