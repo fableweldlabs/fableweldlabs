@@ -36,6 +36,8 @@ The three Time & Seasons editions share release **2.1.0**:
 
 **[Inventory & Equipment](https://fableweld-labs.itch.io/inventory-equipment)** is a separate product at **1.0.0**, $4.99 USD or more. [Overview and seven-language quick starts](INVENTORY.md). Bags, equipment, hotbars, containers and inventory-session saves; optional editable example and free Windows demo.
 
+**[Shops, Crafting & Economy](https://fableweld-labs.itch.io/shops-crafting-economy)** is **1.0.0**, regularly **$9.99 USD**, with a **30% launch discount to $6.99 through November 8, 2026**. Includes Inventory & Equipment, shops, recipes and economy-session saves. [Overview and seven-language quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/ECONOMY.md). Optional editable example and free Windows demo.
+
 Download only the addon to use it in your own project. Editable examples and standalone Windows demos are separate optional downloads. Godot submissions are subject to moderation. See each listing for supported engine versions, license and limitations.
 
 
