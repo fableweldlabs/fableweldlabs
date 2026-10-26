@@ -38,6 +38,8 @@ The three Time & Seasons editions share release **2.1.0**:
 
 **[Shops, Crafting & Economy](https://fableweld-labs.itch.io/shops-crafting-economy)** is **1.0.0**, regularly **$9.99 USD**, with a **30% launch discount to $6.99 through November 8, 2026**. Includes Inventory & Equipment, shops, recipes and economy-session saves. [Overview and seven-language quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/ECONOMY.md). Optional editable example and free Windows demo.
 
+**[Characters, Stats & Abilities](https://fableweld-labs.itch.io/characters-stats-abilities)** is **1.0.0**, regularly **$4.99 USD**, with a **30% launch discount to $3.49 through November 9, 2026**. Character/class/stat/ability/status authoring and party UI in seven languages. [Overview and quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/CHARACTERS.md). Optional editable example and free Windows demo. Combat execution is game-owned.
+
 Download only the addon to use it in your own project. Editable examples and standalone Windows demos are separate optional downloads. Godot submissions are subject to moderation. See each listing for supported engine versions, license and limitations.
 
 
