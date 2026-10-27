@@ -33,6 +33,10 @@ Through **November 9, 2026**, three more products have 30% launch discounts:
 
 Choose one clock edition per project; Pro customers do not need Starter too. Economy includes Inventory & Equipment. The regular prices below remain the base prices; see each checkout for active offers. Free Lite remains free under MIT. [Try the small free clock tutorial](LITE-CLOCK-TUTORIAL.md).
 
+## RPG Combat — now available
+
+[RPG Combat](https://fableweld-labs.itch.io/rpg-combat) **1.0.0**: turn-based battles, statuses, party progression and editable difficulty. Regular **$9.99**, launch **$6.99 through November 10, 2026**. [Launch offer](https://itch.io/s/211160/rpg-combat-launch-sale) · [Documentation and seven-language quick starts](COMBAT.md). Small required addon; editable example and free Windows demo are optional. Combat works standalone; other paid modules are separate. Verified on Godot 4.7.2 Windows.
+
 ## Product status
 
 
