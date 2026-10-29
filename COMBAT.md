@@ -2,7 +2,7 @@
 
 [Official product and downloads](https://fableweld-labs.itch.io/rpg-combat) · [Bug reports](https://github.com/fableweldlabs/fableweldlabs/issues)
 
-Turn-based battles, abilities, statuses, party progression, enemy decisions and editable difficulty tiers. Built-in UI and guides support English, Spanish, Brazilian Portuguese, Simplified Chinese, Japanese, French and German, with English fallback. Translations are AI-assisted.
+Turn-based battles, abilities, statuses, party progression, enemy decisions and editable difficulty tiers. Built-in UI and guides support English, Spanish, Brazilian Portuguese, Simplified Chinese, Japanese, French, German, Polish, Korean, Traditional Chinese, Turkish and Ukrainian, with English fallback. Translations are AI-assisted.
 
 Only the small addon is required. The editable example and free Windows demo are separate optional downloads. Reusable controls are 2D; the optional Lumen Vale world is 3D. Combat works standalone; Characters is optional and sold separately.
 
@@ -30,7 +30,7 @@ Email fableweldlabs@gmail.com or open an issue with engine/product version, repr
 
 # Combat quick starts
 
-Quickstarts for RPG Combat 1.0.0. The required addon and optional editable and Windows examples are separate downloads. Independent native-speaker review has not been performed. See installation, updates and API reference included in the product download.
+Quickstarts for RPG Combat 1.1.0. The required addon and optional editable and Windows examples are separate downloads. Independent native-speaker review has not been performed. See installation, updates and API reference included in the product download.
 
 ## Difficulty workflow / Flujo de dificultad / Fluxo de dificuldade / 难度流程 / 難易度の手順 / Réglage de difficulté / Schwierigkeitsablauf
 
@@ -110,3 +110,18 @@ Quickstarts for RPG Combat 1.0.0. The required addon and optional editable and W
 4. Jeder Sieg vergibt einmal Erfahrung. Neue Stufenwerte gelten ab dem nächsten Kampf. Wunden und verbrauchte Ressourcen bleiben erhalten; Ausruhen stellt die Anfangswerte für den nächsten Kampf wieder her. Während des Kampfes sind Ruhe und Gruppenwechsel gesperrt.
 5. Wähle einen Speicherplatz und speichere. Laden ersetzt den aktuellen Fortschritt. Falls der Hauptspielstand nicht geladen werden kann, lade die Sicherung und speichere den wiederhergestellten Fortschritt auf einem anderen Platz. Vorhandene Wiederherstellungsdateien verhindern das Überschreiben; bewahre sie bis zur bestätigten Wiederherstellung auf.
 6. Aktiviere zum Erstellen von Inhalten **Fableweld Combat & Parties** unter Project Settings → Plugins. Erstelle im leeren Dock einen Startkatalog, bearbeite Einträge im Inspector und speichere eine `.tres` außerhalb von `addons`. Übersetze Anzeigenamen, ohne stabile IDs zu ändern. Die optionale Welt bietet Übung und Kampagne; Schließen führt zur Welt zurück.
+
+
+## 1.1.0 update
+
+New in this update: combat previews reuse unchanged legal target choices. Target tooltips show current health and refresh without rebuilding the choices. Changed target eligibility still refreshes the list.
+
+Five additional interface, quick-start and example languages:
+
+- [Polski](COMBAT-QUICKSTART.pl.md)
+- [한국어](COMBAT-QUICKSTART.ko.md)
+- [繁體中文](COMBAT-QUICKSTART.zh_TW.md)
+- [Türkçe](COMBAT-QUICKSTART.tr.md)
+- [Українська](COMBAT-QUICKSTART.uk.md)
+
+Translations are AI-assisted; independent native-speaker review is not claimed. Existing custom IDs and text remain unchanged.

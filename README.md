@@ -35,24 +35,24 @@ Choose one clock edition per project; Pro customers do not need Starter too. Eco
 
 ## RPG Combat — now available
 
-[RPG Combat](https://fableweld-labs.itch.io/rpg-combat) **1.0.0**: turn-based battles, statuses, party progression and editable difficulty. Regular **$9.99**, launch **$6.99 through November 10, 2026**. [Launch offer](https://itch.io/s/211160/rpg-combat-launch-sale) · [Documentation and seven-language quick starts](COMBAT.md). Small required addon; editable example and free Windows demo are optional. Combat works standalone; other paid modules are separate. Verified on Godot 4.7.2 Windows.
+[RPG Combat](https://fableweld-labs.itch.io/rpg-combat) **1.1.0**: turn-based battles, statuses, party progression and editable difficulty. Regular **$9.99**, launch **$6.99 through November 10, 2026**. [Launch offer](https://itch.io/s/211160/rpg-combat-launch-sale) · [Documentation and twelve-language quick starts](COMBAT.md). Small required addon; editable example and free Windows demo are optional. Combat works standalone; other paid modules are separate. Verified on Godot 4.7.2 Windows.
 
 ## Product status
 
 
-The three Time & Seasons editions share release **2.1.0**:
+The three Time & Seasons editions share release **2.2.0**:
 
 
 - [Time & Seasons Lite](https://fableweld-labs.itch.io/time-seasons-free-lite): free, MIT source.
 - [Time & Seasons Starter](https://fableweld-labs.itch.io/time-seasons-starter): $2.99 USD or more. [Documentation](STARTER.md).
-- [Calendar & Growth Pro](https://fableweld-labs.itch.io/calendar-growth-pro): $19.99 USD or more. [Documentation and seven-language quick starts](PRO.md).
+- [Calendar & Growth Pro](https://fableweld-labs.itch.io/calendar-growth-pro): $19.99 USD or more. [Documentation and twelve-language quick starts](PRO.md).
 
 
-**[Inventory & Equipment](https://fableweld-labs.itch.io/inventory-equipment)** is a separate product at **1.0.0**, $4.99 USD or more. [Overview and seven-language quick starts](INVENTORY.md). Bags, equipment, hotbars, containers and inventory-session saves; optional editable example and free Windows demo.
+**[Inventory & Equipment](https://fableweld-labs.itch.io/inventory-equipment)** is a separate product at **1.1.0**, $4.99 USD or more. [Overview and twelve-language quick starts](INVENTORY.md). Bags, equipment, hotbars, containers and inventory-session saves; optional editable example and free Windows demo.
 
-**[Shops, Crafting & Economy](https://fableweld-labs.itch.io/shops-crafting-economy)** is **1.0.0**, regularly **$9.99 USD**, with a **30% launch discount to $6.99 through November 8, 2026**. Includes Inventory & Equipment, shops, recipes and economy-session saves. [Overview and seven-language quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/ECONOMY.md). Optional editable example and free Windows demo.
+**[Shops, Crafting & Economy](https://fableweld-labs.itch.io/shops-crafting-economy)** is **1.1.0**, regularly **$9.99 USD**, with a **30% launch discount to $6.99 through November 8, 2026**. Includes Inventory & Equipment, shops, recipes and economy-session saves. [Overview and twelve-language quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/ECONOMY.md). Optional editable example and free Windows demo.
 
-**[Characters, Stats & Abilities](https://fableweld-labs.itch.io/characters-stats-abilities)** is **1.0.0**, regularly **$4.99 USD**, with a **30% launch discount to $3.49 through November 9, 2026**. Character/class/stat/ability/status authoring and party UI in seven languages. [Overview and quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/CHARACTERS.md). Optional editable example and free Windows demo. Combat execution is game-owned.
+**[Characters, Stats & Abilities](https://fableweld-labs.itch.io/characters-stats-abilities)** is **1.1.0**, regularly **$4.99 USD**, with a **30% launch discount to $3.49 through November 9, 2026**. Character/class/stat/ability/status authoring and party UI in twelve languages. [Overview and quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/CHARACTERS.md). Optional editable example and free Windows demo. Combat execution is game-owned.
 
 Download only the addon to use it in your own project. Editable examples and standalone Windows demos are separate optional downloads. Godot submissions are subject to moderation. See each listing for supported engine versions, license and limitations.
 
@@ -66,3 +66,8 @@ Contact: [fableweldlabs@gmail.com](mailto:fableweldlabs@gmail.com).
 
 
 
+
+
+## Language and usability updates
+
+Polish, Korean, Traditional Chinese, Turkish and Ukrainian join the existing seven languages across released-product interfaces, quick starts and optional examples, including dialogue and signs. Starter and Pro are 2.2.0; Inventory, Economy, Characters and Combat are 1.1.0. Each update also reduces repeated UI work or improves selection/display behavior. See each product guide for its changes. AI-assisted translations have not had independent native-speaker certification.

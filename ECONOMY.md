@@ -18,7 +18,7 @@ Includes Inventory & Equipment; no separate Inventory purchase is needed. Author
 
 Only **Addon Only** is required for your own project. The editable Lumen Vale project and free Windows x64 demo are separate optional downloads. The scenery and MIT Lite world are example content; no paid Calendar implementation is bundled.
 
-Verified on **Godot 4.7.2, Windows x64**. Other targets are unverified. The interface and guides support seven languages with built-in fallback; custom names and IDs remain yours. Translations are AI-assisted; native-speaker and physical-DPI certification is not claimed.
+Verified on **Godot 4.7.2, Windows x64**. Other targets are unverified. The interface and guides support twelve languages with built-in fallback; custom names and IDs remain yours. Translations are AI-assisted; native-speaker and physical-DPI certification is not claimed.
 
 ## Limits and saves
 
@@ -31,3 +31,18 @@ Supported legacy Inventory migration previews the conversion and writes a separa
 Copyright 2026 **Gordon Hinchen**, published under Fableweld Labs branding. The commercial license permits one purchasing individual/entity and its private project team to use and modify the commercial additions in unlimited integrated games/apps. Keep paid source private; standalone redistribution is not allowed. MIT portions retain their own rights and notices. Read `LICENSE-ECONOMY.txt`, `LICENSE-COMPONENTS.txt` and the included notices.
 
 Contact **fableweldlabs@gmail.com** or [report a bug](https://github.com/fableweldlabs/fableweldlabs/issues). Include product/version, Godot version, platform, reproduction steps and expected/actual results. Do not post paid source or private saves. Refund requests follow itch.io's process and mandatory rights.
+
+
+## 1.1.0 update
+
+New in this update: changing the purchase quantity reuses unchanged product choices and keeps the selected item. Edited product names and available items still refresh correctly. Inventory selections are also preserved.
+
+Five additional interface, quick-start and example languages:
+
+- [Polski](ECONOMY-QUICKSTART.pl.md)
+- [한국어](ECONOMY-QUICKSTART.ko.md)
+- [繁體中文](ECONOMY-QUICKSTART.zh_TW.md)
+- [Türkçe](ECONOMY-QUICKSTART.tr.md)
+- [Українська](ECONOMY-QUICKSTART.uk.md)
+
+Translations are AI-assisted; independent native-speaker review is not claimed. Existing custom IDs and text remain unchanged.
