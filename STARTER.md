@@ -15,8 +15,13 @@ Download **Addon Only** for your own game. Lumen Vale's editable project and pla
 - [日本語](STARTER-QUICKSTART.ja.md)
 - [Français](STARTER-QUICKSTART.fr.md)
 - [Deutsch](STARTER-QUICKSTART.de.md)
+- [Polski](STARTER-QUICKSTART.pl.md)
+- [한국어](STARTER-QUICKSTART.ko.md)
+- [繁體中文](STARTER-QUICKSTART.zh_TW.md)
+- [Türkçe](STARTER-QUICKSTART.tr.md)
+- [Українська](STARTER-QUICKSTART.uk.md)
 
-The dock and optional Lumen Vale example support the same seven languages. Dialogue, controls, help, signs and localized place names follow the selection. Customer names, API identifiers and saved data remain stable. Translations are AI-assisted, without independent native-speaker review.
+The dock and optional Lumen Vale example support the same twelve languages. Dialogue, controls, help, signs and localized place names follow the selection. Customer names, API identifiers and saved data remain stable. Translations are AI-assisted, without independent native-speaker review.
 
 ## Requirements and safe updates
 
@@ -33,3 +38,12 @@ Commercial additions permit one purchasing person/entity, private project-team a
 ## Runtime HUD and extended controls
 The generated rig now includes a glossy reusable clock HUD, matching sleep control and a language selector. The selector translates built-in HUD text, interaction prompts and generated instructions without changing your game’s TranslationServer or custom names. For a custom HUD, use its language_code field or set_language("ja"). FWHUDStyle controls colors, font, padding, corners and clock size; the clock caches its appearance instead of rebuilding it on every tick. Existing custom sleep captions are preserved. Lumen Vale uses this actual reusable HUD, not a separate imitation.
 The generated language controller is scoped to its own rig and explicitly marked built-in text. It leaves arbitrary customer labels alone. The smaller 2D/3D examples also localize their paid action buttons, save feedback and availability explanations.
+
+## Update 2.2.0
+
+Polish, Korean, Traditional Chinese, Turkish and Ukrainian join the existing seven languages. Interface text, quick starts and the optional example's dialogue, signs and controls are included.
+
+The reusable clock card formats its date only when the date or language changes. Set `compact_mode` in the card Inspector to hide secondary labels while keeping date, time and day progress; its tooltip retains full context. The translation helper caches formatted-message patterns per language and now handles padded times, precision and literal percent signs.
+
+Only Addon Only is required. Both example downloads remain optional; the Windows demo remains free. Prices and the active launch sale are unchanged.
+
