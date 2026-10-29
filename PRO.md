@@ -1,6 +1,6 @@
 # Calendar & Growth Pro
 
-[Product and downloads](https://fableweld-labs.itch.io/calendar-growth-pro) — $19.99 USD or more. Current release: **2.1.0**.
+[Product and downloads](https://fableweld-labs.itch.io/calendar-growth-pro) — $19.99 USD or more. Current release: **2.2.0**.
 
 Custom calendars, independent clocks, growth stages and coordinated saves for registered participants in Godot. Includes the shared Time & Seasons foundation, guided tools, clock/calendar displays, sleep and speed controls, and optional atmosphere workflows.
 
@@ -8,7 +8,7 @@ Custom calendars, independent clocks, growth stages and coordinated saves for re
 
 [English](PRO-QUICKSTART.en.md) · [Español](PRO-QUICKSTART.es.md) · [Português (Brasil)](PRO-QUICKSTART.pt_BR.md) · [简体中文](PRO-QUICKSTART.zh_CN.md) · [日本語](PRO-QUICKSTART.ja.md) · [Français](PRO-QUICKSTART.fr.md) · [Deutsch](PRO-QUICKSTART.de.md)
 
-Built-in interface, quick starts and the optional Lumen Vale example support these seven languages. Translations are AI-assisted; independent native-speaker review is not claimed.
+Built-in interface, quick starts and the optional Lumen Vale example support these twelve languages. Translations are AI-assisted; independent native-speaker review is not claimed.
 
 ## Downloads
 
@@ -29,3 +29,18 @@ Registered-state saves cover configured clocks and growth participants, not your
 Editable paid source is supplied through itch.io under the packaged commercial license. Do not post paid source or private saves in this public repository. Shared MIT components keep their MIT rights. Copyright © 2026 Gordon Hinchen; Fableweld Labs branding.
 
 [Support](SUPPORT.md) · [Bug reports](https://github.com/fableweldlabs/fableweldlabs/issues) · [Starter](STARTER.md) · [Free Lite](https://fableweld-labs.itch.io/time-seasons-free-lite)
+
+
+## 2.2.0 update
+
+New in this update: the time display avoids reapplying unchanged font and color settings. In its Inspector, enable compact_mode for the compact default display, or disable use_24_hour for twelve-hour time. Your custom format_pattern remains unchanged.
+
+Five additional interface, quick-start and example languages:
+
+- [Polski](PRO-QUICKSTART.pl.md)
+- [한국어](PRO-QUICKSTART.ko.md)
+- [繁體中文](PRO-QUICKSTART.zh_TW.md)
+- [Türkçe](PRO-QUICKSTART.tr.md)
+- [Українська](PRO-QUICKSTART.uk.md)
+
+Translations are AI-assisted; independent native-speaker review is not claimed. Existing custom IDs and text remain unchanged.
