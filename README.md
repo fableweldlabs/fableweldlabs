@@ -35,12 +35,12 @@ Choose one clock edition per project; Pro customers do not need Starter too. Eco
 
 ## RPG Combat — now available
 
-[RPG Combat](https://fableweld-labs.itch.io/rpg-combat) **1.1.0**: turn-based battles, statuses, party progression and editable difficulty. Regular **$9.99**, launch **$6.99 through November 10, 2026**. [Launch offer](https://itch.io/s/211160/rpg-combat-launch-sale) · [Documentation and twelve-language quick starts](COMBAT.md). Small required addon; editable example and free Windows demo are optional. Combat works standalone; other paid modules are separate. Verified on Godot 4.7.2 Windows.
+[RPG Combat](https://fableweld-labs.itch.io/rpg-combat) **1.2.0**: turn-based battles, statuses, party progression and editable difficulty. Regular **$9.99**, launch **$6.99 through November 10, 2026**. [Launch offer](https://itch.io/s/211160/rpg-combat-launch-sale) · [Documentation and twelve-language quick starts](COMBAT.md). Small required addon; editable example and free Windows demo are optional. Combat works standalone; other paid modules are separate. Verified on Godot 4.7.2 Windows.
 
 ## Product status
 
 
-The three Time & Seasons editions share release **2.2.0**:
+The three Time & Seasons editions share release **2.3.0**:
 
 
 - [Time & Seasons Lite](https://fableweld-labs.itch.io/time-seasons-free-lite): free, MIT source.
@@ -48,11 +48,11 @@ The three Time & Seasons editions share release **2.2.0**:
 - [Calendar & Growth Pro](https://fableweld-labs.itch.io/calendar-growth-pro): $19.99 USD or more. [Documentation and twelve-language quick starts](PRO.md).
 
 
-**[Inventory & Equipment](https://fableweld-labs.itch.io/inventory-equipment)** is a separate product at **1.1.0**, $4.99 USD or more. [Overview and twelve-language quick starts](INVENTORY.md). Bags, equipment, hotbars, containers and inventory-session saves; optional editable example and free Windows demo.
+**[Inventory & Equipment](https://fableweld-labs.itch.io/inventory-equipment)** is a separate product at **1.2.0**, $4.99 USD or more. [Overview and twelve-language quick starts](INVENTORY.md). Bags, equipment, hotbars, containers and inventory-session saves; optional editable example and free Windows demo.
 
-**[Shops, Crafting & Economy](https://fableweld-labs.itch.io/shops-crafting-economy)** is **1.1.0**, regularly **$9.99 USD**, with a **30% launch discount to $6.99 through November 8, 2026**. Includes Inventory & Equipment, shops, recipes and economy-session saves. [Overview and twelve-language quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/ECONOMY.md). Optional editable example and free Windows demo.
+**[Shops, Crafting & Economy](https://fableweld-labs.itch.io/shops-crafting-economy)** is **1.2.0**, regularly **$9.99 USD**, with a **30% launch discount to $6.99 through November 8, 2026**. Includes Inventory & Equipment, shops, recipes and economy-session saves. [Overview and twelve-language quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/ECONOMY.md). Optional editable example and free Windows demo.
 
-**[Characters, Stats & Abilities](https://fableweld-labs.itch.io/characters-stats-abilities)** is **1.1.0**, regularly **$4.99 USD**, with a **30% launch discount to $3.49 through November 9, 2026**. Character/class/stat/ability/status authoring and party UI in twelve languages. [Overview and quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/CHARACTERS.md). Optional editable example and free Windows demo. Combat execution is game-owned.
+**[Characters, Stats & Abilities](https://fableweld-labs.itch.io/characters-stats-abilities)** is **1.2.0**, regularly **$4.99 USD**, with a **30% launch discount to $3.49 through November 9, 2026**. Character/class/stat/ability/status authoring and party UI in twelve languages. [Overview and quick starts](https://github.com/fableweldlabs/fableweldlabs/blob/main/CHARACTERS.md). Optional editable example and free Windows demo. Combat execution is game-owned.
 
 Download only the addon to use it in your own project. Editable examples and standalone Windows demos are separate optional downloads. Godot submissions are subject to moderation. See each listing for supported engine versions, license and limitations.
 
@@ -70,4 +70,15 @@ Contact: [fableweldlabs@gmail.com](mailto:fableweldlabs@gmail.com).
 
 ## Language and usability updates
 
-Polish, Korean, Traditional Chinese, Turkish and Ukrainian join the existing seven languages across released-product interfaces, quick starts and optional examples, including dialogue and signs. Starter and Pro are 2.2.0; Inventory, Economy, Characters and Combat are 1.1.0. Each update also reduces repeated UI work or improves selection/display behavior. See each product guide for its changes. AI-assisted translations have not had independent native-speaker certification.
+Polish, Korean, Traditional Chinese, Turkish and Ukrainian join the existing seven languages across released-product interfaces, quick starts and optional examples, including dialogue and signs. Lite, Starter and Pro are 2.3.0; Inventory, Economy, Characters and Combat are 1.2.0. Each update also reduces repeated UI work or improves selection/display behavior. See each product guide for its changes. AI-assisted translations have not had independent native-speaker certification.
+
+
+## Appearance and usability refresh
+
+Clean Light and Dark themes are standard across the released tools, with optional Fableweld and Gold styles. Persistent text sizes, Find action and keyboard focus scrolling make existing and extended interfaces easier to use. [Theme controls, twelve-language guidance and update details](APPEARANCE-AND-USABILITY.md).
+
+- [World & Map Authoring](https://fableweld-labs.itch.io/world-map-authoring) 1.1.0.
+- [Saves, Menus & Game Flow](https://fableweld-labs.itch.io/saves-menus-game-flow) 1.1.0.
+- [Dialogue & Cutscenes](https://fableweld-labs.itch.io/dialogue-cutscenes) 0.2.0.
+
+Each listing provides its current price, compatibility, license and limits. Addon downloads are required; editable examples and free Windows demos remain separate and optional.
