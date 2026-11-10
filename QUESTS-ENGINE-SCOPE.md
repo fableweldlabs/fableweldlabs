@@ -1,0 +1,11 @@
+# Supported engine scope
+
+Use the separately supplied **Fableweld corrected Godot 4.7.2 build for Windows x86_64** and its matching export template. Open this example with that editor directly; the installed Godot application does not need to be replaced. Keep a project backup before using another editor version.
+
+The corrected build is a modified build of Godot, not an official Godot release. It retains the original source version and includes fixes for GDScript shutdown ownership and audio playback cleanup. Its accompanying engine manifest identifies the exact editor and matching debug/release templates. Keep its engine license and third-party notices with exported games.
+
+The unmodified Godot 4.7.2 executable passed scoped component and editor tests, but intermittently crashed during explicit world teardown after the full rendered checks. Do not interpret an assertion pass as a clean process exit. Stock 4.7.2 shutdown compatibility remains unqualified; the corrected modified build has separate validation evidence. Other platforms, renderers and engine versions are not established by these Windows checks.
+
+The required Quest addon contains no engine executable. The optional editable world needs its separately supplied editor; a playable Windows download includes its own matching runtime. Do not mix an executable, export template or PCK from different builds. The separate portable editor companion includes godot.exe, a _sc_ marker and matching debug/release templates under editor_data/export_templates/4.7.2.stable. Extract it into a writable folder outside the project, then open the editable project with that godot.exe. Keep the marker and editor_data beside it; no installation or custom template path is required. Fresh extraction, portable editor paths and default release/debug export lookup have been verified. The companion is available in the release downloads; its engine license and notices remain included. The release qualification retains this exact engine scope and preserved failure history.
+
+The [installation guide](QUESTS.md) covers addon replacement and creator-data preservation. The [quick start](QUESTS.md) covers authoring. Supported checkpoint and migration boundaries remain in [State and limitations](https://fableweld-labs.itch.io/quests-progression).
