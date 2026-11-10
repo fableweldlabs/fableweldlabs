@@ -82,3 +82,12 @@ Clean Light and Dark themes are standard across the released tools, with optiona
 - [Dialogue & Cutscenes](https://fableweld-labs.itch.io/dialogue-cutscenes) 0.2.0.
 
 Each listing provides its current price, compatibility, license and limits. Addon downloads are required; editable examples and free Windows demos remain separate and optional.
+
+
+## Quests & Progression
+
+[Quests & Progression for Godot](https://fableweld-labs.itch.io/quests-progression) 0.1.0 is available: objectives, prerequisites, journals, XP and scoped checkpoints. Regularly $9.99 USD; [30% launch offer, $6.99 through November 24, 2026](https://itch.io/s/217112/quests-progression-launch-sale). Conventional Light/Dark themes, optional Fableweld/Gold, larger text and Find action. Twelve languages.
+
+**Supported engine requirement:** supplied modified Godot 4.7.2 Windows x86_64 editor and matching template. Full stock-engine example compatibility and other platforms are unqualified. The editor and Windows demo are free separate downloads; editable examples are optional.
+
+[Twelve-language quick start and appearance guide](QUESTS.md) · [Engine scope and limitations](QUESTS-ENGINE-SCOPE.md). Keep paid source private; use public issues for reproducible bug reports without private project files.
