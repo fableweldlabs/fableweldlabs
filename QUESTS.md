@@ -2,15 +2,15 @@
 
 [Product and downloads](https://fableweld-labs.itch.io/quests-progression) · [Bug reports](https://github.com/fableweldlabs/fableweldlabs/issues)
 
-Version0.1.0. Regular price $9.99 USD; see the product page for the current launch discount. The addon is about253KB. Editable Lumen Vale and the free Windows demo are optional separate downloads.
+Version 0.1.0. Regular price $9.99 USD; see the product page for the current launch discount. The addon is 258,216 bytes. Editable Lumen Vale and the free Windows demo are optional separate downloads.
 
-**Supported engine requirement:** use the supplied modified Godot4.7.2 Windows x86_64 editor and matching template. It is not an official Godot release. Stock4.7.2 has a recorded intermittent full-world shutdown failure; this release does not claim full stock-engine compatibility or support for other versions/platforms. The modified engine is a separate free download.
+**Supported engine requirement:** use the supplied modified Godot 4.7.2 Windows x86_64 editor and matching template. It is not an official Godot release. Stock 4.7.2 has a recorded intermittent full-world shutdown failure; this release does not claim full stock-engine compatibility or support for other versions/platforms. The modified engine is a separate free download.
 
 Stable-ID quests and objectives, prerequisites, direct XP or event rewards, journal filters, tracker, timers, repeat/retry, optional/hidden objectives, actor hand-in and confirmed abandonment. Quest-only reviewed ID-renaming writes a separate save copy; component checkpoints are not universal whole-game saves. Connected generators require their documented separately licensed dependencies and exact supported versions. No complete RPG kit is bundled.
 
-Conventional Light/Dark themes, optional Fableweld/Gold, saved100/125/150% text sizes, Find action and focus scrolling. Twelve interface/example/quick-start languages; English fallback. Translations were prepared with AI assistance and have not had independent native-speaker certification.
+Conventional Light/Dark themes, optional Fableweld/Gold, saved 100/125/150% text sizes, Find action and focus scrolling. Twelve interface/example/quick-start languages; English fallback. Translations were prepared with AI assistance and have not had independent native-speaker certification.
 
-For support include product/version, exact engine build, OS and reproduction steps. Do not post paid source or private project files publicly. Private support: fableweldlabs@gmail.com. Copyright2026 Gordon Hinchen; Fableweld Labs branding. Product license and exact component notices are supplied with each download.
+For support include product/version, exact engine build, OS and reproduction steps. Do not post paid source or private project files publicly. Private support: fableweldlabs@gmail.com. Copyright 2026 Gordon Hinchen; Fableweld Labs branding. Product license and exact component notices are supplied with each download.
 
 # Quick start / Guía rápida / Guia rápido / 快速开始 / クイックスタート / Démarrage rapide
 
